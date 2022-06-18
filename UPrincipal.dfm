@@ -220,8 +220,8 @@ object FPrincipal: TFPrincipal
     IndexDefs = <>
     Params = <>
     StoreDefs = True
-    Left = 256
-    Top = 64
+    Left = 224
+    Top = 96
     object ClientDadosx: TIntegerField
       FieldName = 'x'
     end
@@ -241,7 +241,7 @@ object FPrincipal: TFPrincipal
   end
   object DataSourceDados: TDataSource
     DataSet = ClientDados
-    Left = 256
+    Left = 312
     Top = 96
   end
   object ClientAux: TClientDataSet
@@ -264,8 +264,8 @@ object FPrincipal: TFPrincipal
     IndexDefs = <>
     Params = <>
     StoreDefs = True
-    Left = 312
-    Top = 64
+    Left = 472
+    Top = 96
     object StringField1: TStringField
       FieldName = 'cromossomo'
     end
@@ -275,7 +275,7 @@ object FPrincipal: TFPrincipal
   end
   object DataSourceAux: TDataSource
     DataSet = ClientAux
-    Left = 312
-    Top = 104
+    Left = 408
+    Top = 96
   end
 end
