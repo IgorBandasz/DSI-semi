@@ -7,7 +7,7 @@ Algoritmos Genéticos são inspirados no princípio Darwiniano da evolução das
 Exercício proposto na disciplina de Desenvolvimento de Sistemas Inteligentes, de encontrar o máximo de uma
 equação quadrática de duas variáveis.
 
-![imge\formula.png]
+![](imge/formula.png)
 
 Sabe-se de antemão que o valor máximo dessa equação se encontra no ponto x=2 e y=3, com f(x,y)=2.
 
